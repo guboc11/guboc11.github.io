@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tawon&#39;s dev blog</title>
+    <title>Tawon&#39;s Dev Blog</title>
     <link>//localhost:1313/</link>
-    <description>Recent content on tawon&#39;s dev blog</description>
+    <description>Recent content on Tawon&#39;s Dev Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Dec 2025 21:51:04 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 22:55:57 +0900</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>블록체인과 관련된 글을 작성해보자</title>
       <link>//localhost:1313/posts/backlog-blockchain/</link>
       <pubDate>Wed, 03 Dec 2025 21:51:04 +0900</pubDate>
       <guid>//localhost:1313/posts/backlog-blockchain/</guid>
-      <description>&lt;p&gt;이제 더 이상 블로그 글 작성하는 것을 미루지 않으려고 합니다.&lt;/p&gt;&#xA;&lt;p&gt;글 작성하는 걸 미루게 되는 가장 큰 원인은 너무 크게 생각해서 &amp;lsquo;언제 다 쓰지&amp;hellip;&amp;lsquo;하는 고민인 것 같습니다.&lt;/p&gt;&#xA;&lt;p&gt;그래서 최대한 짤막하게 작성하고, 그것을 이어 붙여서 아티클로 만들고, 아티클을 모아서 시리즈로 개시하는 등 아주 작게 시작하려고 합니다.&lt;/p&gt;&#xA;&lt;p&gt;블록체인 쪽에서 이것 저것 경험을 많이 한 만큼, 그리고 블록체인이 무엇인지 잘 모르는 사람들에게 블록체인의 동작 원리에 대해 설명하려고 노력한 만큼, 블록체인과 관련된 내용을 작성해보려고 합니다.&lt;/p&gt;</description>
+      <description>&lt;p&gt;이제 더 이상 블로그 글 작성하는 것을 미루지 않으려고 합니다. 글 작성하는 걸 미루게 되는 가장 큰 원인은 너무 크게 생각해서 &amp;lsquo;언제 다 쓰지&amp;hellip;&amp;lsquo;하는 고민인 것 같습니다.&lt;/p&gt;</description>
     </item>
     <item>
       <title>첫 번째 포스트</title>

@@ -1,3 +1,14 @@
+/* Custom CSS */
+.semibold {
+  font-weight: 600;
+}
+
+.gray {
+  color: gray;
+}
+
+
+/* mainroad CSS */
 *,
 *::before,
 *::after {
