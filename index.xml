@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tawon&#39;s dev blog</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on tawon&#39;s dev blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Dec 2025 21:09:27 +0900</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>첫 번째 포스트</title>
+      <link>//localhost:1313/posts/first-post/</link>
+      <pubDate>Wed, 03 Dec 2025 21:09:27 +0900</pubDate>
+      <guid>//localhost:1313/posts/first-post/</guid>
+      <description>&lt;p&gt;개발 블로그를 미루고 미루다 Devan님께서 Hugo를 추천해주셔서 이렇게 첫 포스트를 작성해봅니다.&lt;br&gt;&#xA;Hugo 좋네요. 기능도 많고, 편한 것 같습니다. 조금씩 글 작성해보면서 블로그 꾸며 가야겠습니다.&lt;br&gt;&#xA;블로그 방문해주시는 분들 모두 환영하고 감사합니다.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
