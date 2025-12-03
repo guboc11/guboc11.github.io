@@ -6,8 +6,15 @@
     <description>Recent content on Tawon&#39;s Dev Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Dec 2025 22:55:57 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 04 Dec 2025 00:05:59 +0900</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>전자 화폐로서 동작하기 위해 필요한 요소</title>
+      <link>//localhost:1313/posts/what-is-blockchain/essential-element-of-electric-currency/</link>
+      <pubDate>Thu, 04 Dec 2025 00:05:59 +0900</pubDate>
+      <guid>//localhost:1313/posts/what-is-blockchain/essential-element-of-electric-currency/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;블록체인&lt;/strong&gt;에 대해서 얘기하려면 비트코인 얘기가 빠질 수 없죠.&lt;br&gt;&#xA;비트코인이 뭔가요? 바로 &lt;strong&gt;탈중앙화 디지털 화폐&lt;/strong&gt;라고 할 수 있습니다.&lt;br&gt;&#xA;그렇습니다. 우리는 비트코인을 이해하기 전에 먼저 &lt;strong&gt;디지털 화폐&lt;/strong&gt;에 대해 얘기를 해보려고 합니다.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>블록체인과 관련된 글을 작성해보자</title>
       <link>//localhost:1313/posts/backlog-blockchain/</link>

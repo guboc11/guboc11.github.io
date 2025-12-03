@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bitcoin on Tawon&#39;s Dev Blog</title>
+    <link>//localhost:1313/tags/bitcoin/</link>
+    <description>Recent content in Bitcoin on Tawon&#39;s Dev Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Dec 2025 00:05:59 +0900</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/bitcoin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>전자 화폐로서 동작하기 위해 필요한 요소</title>
+      <link>//localhost:1313/posts/what-is-blockchain/essential-element-of-electric-currency/</link>
+      <pubDate>Thu, 04 Dec 2025 00:05:59 +0900</pubDate>
+      <guid>//localhost:1313/posts/what-is-blockchain/essential-element-of-electric-currency/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

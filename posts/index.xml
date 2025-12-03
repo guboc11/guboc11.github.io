@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Tawon&#39;s Dev Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Dec 2025 22:55:57 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 04 Dec 2025 00:05:59 +0900</lastBuildDate>
     <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>전자 화폐로서 동작하기 위해 필요한 요소</title>
+      <link>//localhost:1313/posts/what-is-blockchain/essential-element-of-electric-currency/</link>
+      <pubDate>Thu, 04 Dec 2025 00:05:59 +0900</pubDate>
+      <guid>//localhost:1313/posts/what-is-blockchain/essential-element-of-electric-currency/</guid>
+      <description>&lt;p&gt;sdf&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
     <item>
       <title>블록체인과 관련된 글을 작성해보자</title>
       <link>//localhost:1313/posts/backlog-blockchain/</link>
@@ -20,7 +27,7 @@
       <link>//localhost:1313/posts/first-post/</link>
       <pubDate>Wed, 03 Dec 2025 21:09:27 +0900</pubDate>
       <guid>//localhost:1313/posts/first-post/</guid>
-      <description>&lt;p&gt;개발 블로그를 미루고 미루다 Devan님께서 Hugo를 추천해주셔서 이렇게 첫 포스트를 작성해봅니다.&lt;/p&gt;</description>
+      <description>&lt;p&gt;개발 블로그를 미루고 미루다 Devan님께서 Hugo를 추천해주셔서 이렇게 첫 포스트를 작성해봅니다.&lt;br&gt;&#xA;Hugo 좋네요. 기능도 많고, 편한 것 같습니다. 조금씩 글 작성해보면서 블로그 꾸며 가야겠습니다.&lt;br&gt;&#xA;블로그 방문해주시는 분들 모두 환영하고 감사합니다.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

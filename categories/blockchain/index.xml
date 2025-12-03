@@ -6,8 +6,15 @@
     <description>Recent content in Blockchain on Tawon&#39;s Dev Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Dec 2025 22:55:57 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 04 Dec 2025 00:05:59 +0900</lastBuildDate>
     <atom:link href="//localhost:1313/categories/blockchain/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>전자 화폐로서 동작하기 위해 필요한 요소</title>
+      <link>//localhost:1313/posts/what-is-blockchain/essential-element-of-electric-currency/</link>
+      <pubDate>Thu, 04 Dec 2025 00:05:59 +0900</pubDate>
+      <guid>//localhost:1313/posts/what-is-blockchain/essential-element-of-electric-currency/</guid>
+      <description>&lt;p&gt;sdf&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
     <item>
       <title>블록체인과 관련된 글을 작성해보자</title>
       <link>//localhost:1313/posts/backlog-blockchain/</link>
