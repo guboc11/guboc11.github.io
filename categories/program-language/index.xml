@@ -6,14 +6,6 @@
     <description>Recent content in Program Language on Tawon&#39;s Dev Blog</description>
     <generator>Hugo</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 04 Dec 2025 19:38:49 +0900</lastBuildDate>
     <atom:link href="//localhost:1313/categories/program-language/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Go 패키지 코드가 실행되기 전까지 어떤 일이 일어날까?(Build and Runtime Overview)</title>
-      <link>//localhost:1313/posts/programming-language/go/go-build-and-runtime-overview/</link>
-      <pubDate>Thu, 04 Dec 2025 18:52:22 +0900</pubDate>
-      <guid>//localhost:1313/posts/programming-language/go/go-build-and-runtime-overview/</guid>
-      <description>&lt;p&gt;Go 문법에 대해서는 안 다뤄볼 예정이다. 왜냐하면 &lt;a href=&#34;https://go.dev/tour/welcome/1&#34;&gt;A Tour of Go&lt;/a&gt;에서 잘 설명하고 다른 블로그에서 잘 다루고 있기 때문인다.&lt;/p&gt;&#xA;&lt;p&gt;대신에 &amp;lsquo;&lt;strong&gt;첫 시작&lt;/strong&gt;&amp;lsquo;부분을 건드려 보려고 한다. 무엇이든 어떤 근본적인 부분을 이해하고 나면 그 다음은 이해하기 쉬워지기 마련이다.&lt;br&gt;&#xA;아주 간단히 Go 패키지 코드를 작성하고 빌드 및 실행할 때, &lt;strong&gt;main 패키지의 main() 함수가 실행되기 전 까지&lt;/strong&gt; 무슨 일이 일어나는지 살펴보자.&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>

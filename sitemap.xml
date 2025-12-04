@@ -20,7 +20,7 @@
     <loc>//localhost:1313/posts/</loc>
     <lastmod>2025-12-04T19:38:49+09:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/program-language/</loc>
+    <loc>//localhost:1313/categories/programing-language/</loc>
     <lastmod>2025-12-04T19:38:49+09:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/</loc>
@@ -55,5 +55,7 @@
   </url><url>
     <loc>//localhost:1313/posts/first-post/</loc>
     <lastmod>2025-12-04T14:07:14+09:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/program-language/</loc>
   </url>
 </urlset>
