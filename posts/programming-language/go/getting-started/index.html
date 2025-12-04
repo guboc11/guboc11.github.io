@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+	<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Go - Getting Started - Tawon&#39;s Dev Blog</title>
+		<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+		<meta name="description"
+			content="">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link rel="dns-prefetch" href="//fonts.googleapis.com">
+		<link rel="dns-prefetch" href="//fonts.gstatic.com">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700" >
+		<link rel="stylesheet" href="/css/style.css">
+
+		
+		<link rel="stylesheet" href="/css/custom.min.css">
+		
+
+		<link rel="shortcut icon" href="/favicon.ico">
+		
+	</head>
+	<body class="body">
+		<div class="container container--outer">
+			<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="Tawon&#39;s Dev Blog" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">Tawon&#39;s Dev Blog</div>
+					
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+			<div class="wrapper flex">
+				<div class="primary">
+					
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">Go - Getting Started</h1>
+			<div class="post__date__container">
+				<span class="post__docstype"> note </span>
+				<span class="post__date">
+					<strong class="semibold gray">Created:</strong> 2025-12-04 14:33
+					
+				</span>
+				<span class="post__update__date">
+					<strong class="semibold gray">Last Modified:</strong> 2025-12-04 18:55
+				</span>
+			</div>
+			
+		</header>
+		<div class="content post__content clearfix">
+			<p>백문이 불여일견, 일단 Go를 사용해보는 걸로 시작해보자.</p>
+<h2 id="go-다운로드--설치">Go 다운로드 &amp; 설치</h2>
+<p><a href="https://go.dev/doc/install">설치 링크</a></p>
+<p>터미널에</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>go verion
+</span></span></code></pre></div><p>이라고 작성하고 실행했을 때 설치된 Go 언어 버전이 출력되면 올바르게 설치 완료된 것이다.</p>
+<h2 id="파일-생성">파일 생성</h2>
+<p>우리는 Go Package를 생성하려는 것이 아니라 그냥 빠르게 실행해보는 목적이니 <code>go mod init</code> 명령어는 따로 실행하지 않아도 된다.</p>
+<p>터미널, 메모장, VS Code 등 어떤 방법으로든 일단 <code>main.go</code>라는 파일을 생성해보자.</p>
+<p>터미널에서는</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>touch main.go
+</span></span></code></pre></div><p>명령어로 생성할 수 있다.</p>
+<p>그리고 Vim, 메모장, VS Code 등 자신이 원하는 에디터로 <code>main.go</code> 파일을 열어서 다음과 같이 작성해보자. (저장까지 잘 하자)</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-go" data-lang="go"><span style="display:flex;"><span><span style="color:#f92672">package</span> <span style="color:#a6e22e">main</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">import</span> <span style="color:#e6db74">&#34;fmt&#34;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">func</span> <span style="color:#a6e22e">main</span>() {
+</span></span><span style="display:flex;"><span>	<span style="color:#a6e22e">fmt</span>.<span style="color:#a6e22e">Println</span>(<span style="color:#e6db74">&#34;Hello, Go&#34;</span>)
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><h2 id="파일-실행">파일 실행</h2>
+<p>그런 다음, 터미널에서 다음과 같이 명령어를 실행하면 <code>main.go</code> 파일을 실행할 수 있다. (터미널 실행하는 경로에 <code>main.go</code>파일이 있어야 한다.)</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>go run main.go
+</span></span></code></pre></div><p><code>main.go</code> 파일을 실행하면 다음과 같이 출력한다.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>Hello, Go
+</span></span></code></pre></div>
+		</div>
+		<h2>참고 자료</h2>
+		<div class="post__reference">
+			<li>
+				<ul>
+					<a href=https://go.dev/tour/welcome/1 target="_blank"> https://go.dev/tour/welcome/1 </a>
+				</ul>
+			<li>
+				<ul>
+					<a href=https://go.dev/doc/tutorial/getting-started target="_blank"> https://go.dev/doc/tutorial/getting-started </a>
+				</ul>
+			</li>
+		</div>
+		<footer class="post__footer">
+			
+<div class="post__tags tags clearfix">
+	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M4 0h8s2 0 4 2l15 15s2 2 0 4L21 31s-2 2-4 0L2 16s-2-2-2-4V3s0-3 4-3m3 10a3 3 0 0 0 0-6 3 3 0 0 0 0 6"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/go/" rel="tag">go</a>
+		</li>
+	</ul>
+</div>
+		</footer>
+	</article>
+</main>
+
+
+
+
+				</div>
+				
+			</div>
+			<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2025 Tawon&#39;s Dev Blog.
+			<span class="footer__copyright-credits">Generated with <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> and <a href="https://github.com/Vimux/Mainroad/" rel="nofollow noopener" target="_blank">Mainroad</a> theme.</span>
+		</div>
+	</div>
+</footer>
+		</div>
+		<script async defer src="/js/menu.js"></script>
+		</body>
+</html>

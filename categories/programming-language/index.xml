@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming Language on Tawon&#39;s Dev Blog</title>
+    <link>//localhost:1313/categories/programming-language/</link>
+    <description>Recent content in Programming Language on Tawon&#39;s Dev Blog</description>
+    <generator>Hugo</generator>
+    <language>ko</language>
+    <lastBuildDate>Thu, 04 Dec 2025 18:55:29 +0900</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/programming-language/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go - Getting Started</title>
+      <link>//localhost:1313/posts/programming-language/go/getting-started/</link>
+      <pubDate>Thu, 04 Dec 2025 14:33:31 +0900</pubDate>
+      <guid>//localhost:1313/posts/programming-language/go/getting-started/</guid>
+      <description>&lt;p&gt;백문이 불여일견, 일단 Go를 사용해보는 걸로 시작해보자.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Go 언어에 대해서 작성해보자</title>
+      <link>//localhost:1313/posts/programming-language/go/backlog-go/</link>
+      <pubDate>Thu, 04 Dec 2025 13:58:34 +0900</pubDate>
+      <guid>//localhost:1313/posts/programming-language/go/backlog-go/</guid>
+      <description>&lt;p&gt;모니터링 엔지니어로 일 할 때 사용했던 Go 언어에 대해서 깊게 한 번 파보고 싶은 마음이 계속 있었는데 어떻게 학습을 하고 정리할 지 감이 안 잡혔다.&lt;/p&gt;&#xA;&lt;p&gt;블로그 글도 써야 하니 Go 언어에 대해서 유용한 내용들을 한 번씩 작성해봐야겠다.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

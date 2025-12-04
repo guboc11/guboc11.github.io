@@ -6,13 +6,20 @@
     <description>Recent content in Docstypes on Tawon&#39;s Dev Blog</description>
     <generator>Hugo</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 04 Dec 2025 12:38:30 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 04 Dec 2025 19:38:49 +0900</lastBuildDate>
     <atom:link href="//localhost:1313/docstypes/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Notes</title>
-      <link>//localhost:1313/docstypes/notes/</link>
-      <pubDate>Thu, 04 Dec 2025 00:05:59 +0900</pubDate>
-      <guid>//localhost:1313/docstypes/notes/</guid>
+      <title>Note</title>
+      <link>//localhost:1313/docstypes/note/</link>
+      <pubDate>Thu, 04 Dec 2025 18:52:22 +0900</pubDate>
+      <guid>//localhost:1313/docstypes/note/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Backlog</title>
+      <link>//localhost:1313/docstypes/backlog/</link>
+      <pubDate>Thu, 04 Dec 2025 13:58:34 +0900</pubDate>
+      <guid>//localhost:1313/docstypes/backlog/</guid>
       <description></description>
     </item>
   </channel>

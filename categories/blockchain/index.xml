@@ -6,20 +6,20 @@
     <description>Recent content in Blockchain on Tawon&#39;s Dev Blog</description>
     <generator>Hugo</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 04 Dec 2025 12:38:30 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 04 Dec 2025 15:01:45 +0900</lastBuildDate>
     <atom:link href="//localhost:1313/categories/blockchain/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>전자 화폐로서 동작하기 위해 필요한 요소</title>
-      <link>//localhost:1313/posts/what-is-blockchain/essential-element-of-electric-currency/</link>
+      <link>//localhost:1313/posts/blockchain/essential-element-of-electric-currency/</link>
       <pubDate>Thu, 04 Dec 2025 00:05:59 +0900</pubDate>
-      <guid>//localhost:1313/posts/what-is-blockchain/essential-element-of-electric-currency/</guid>
+      <guid>//localhost:1313/posts/blockchain/essential-element-of-electric-currency/</guid>
       <description>&lt;p&gt;&lt;strong&gt;블록체인&lt;/strong&gt;에 대해서 얘기하려면 비트코인 얘기가 빠질 수 없죠.&lt;br&gt;&#xA;비트코인이 뭔가요? 바로 &lt;strong&gt;탈중앙화 디지털 화폐&lt;/strong&gt;라고 할 수 있습니다.&lt;br&gt;&#xA;그렇습니다. 우리는 비트코인을 이해하기 전에 먼저 &lt;strong&gt;디지털 화폐&lt;/strong&gt;에 대해 얘기를 해보려고 합니다.&lt;/p&gt;</description>
     </item>
     <item>
       <title>블록체인과 관련된 글을 작성해보자</title>
-      <link>//localhost:1313/posts/backlog-blockchain/</link>
+      <link>//localhost:1313/posts/blockchain/backlog-blockchain/</link>
       <pubDate>Wed, 03 Dec 2025 21:51:04 +0900</pubDate>
-      <guid>//localhost:1313/posts/backlog-blockchain/</guid>
+      <guid>//localhost:1313/posts/blockchain/backlog-blockchain/</guid>
       <description>&lt;p&gt;이제 더 이상 블로그 글 작성하는 것을 미루지 않으려고 합니다. 글 작성하는 걸 미루게 되는 가장 큰 원인은 너무 크게 생각해서 &amp;lsquo;언제 다 쓰지&amp;hellip;&amp;lsquo;하는 고민인 것 같습니다.&lt;/p&gt;</description>
     </item>
   </channel>

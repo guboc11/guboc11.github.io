@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tawon&#39;s Dev Blog</title>
-    <link>//localhost:1313/</link>
-    <description>Recent content on Tawon&#39;s Dev Blog</description>
+    <title>Note on Tawon&#39;s Dev Blog</title>
+    <link>//localhost:1313/docstypes/note/</link>
+    <description>Recent content in Note on Tawon&#39;s Dev Blog</description>
     <generator>Hugo</generator>
     <language>ko</language>
     <lastBuildDate>Thu, 04 Dec 2025 19:38:49 +0900</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/docstypes/note/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Go 패키지 코드가 실행되기 전까지 어떤 일이 일어날까?(Build and Runtime Overview)</title>
       <link>//localhost:1313/posts/programming-language/go/go-build-and-runtime-overview/</link>
@@ -23,25 +23,11 @@
       <description>&lt;p&gt;백문이 불여일견, 일단 Go를 사용해보는 걸로 시작해보자.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Go 언어에 대해서 작성해보자</title>
-      <link>//localhost:1313/posts/programming-language/go/backlog-go/</link>
-      <pubDate>Thu, 04 Dec 2025 13:58:34 +0900</pubDate>
-      <guid>//localhost:1313/posts/programming-language/go/backlog-go/</guid>
-      <description>&lt;p&gt;모니터링 엔지니어로 일 할 때 사용했던 Go 언어에 대해서 깊게 한 번 파보고 싶은 마음이 계속 있었는데 어떻게 학습을 하고 정리할 지 감이 안 잡혔다.&lt;/p&gt;&#xA;&lt;p&gt;블로그 글도 써야 하니 Go 언어에 대해서 유용한 내용들을 한 번씩 작성해봐야겠다.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>전자 화폐로서 동작하기 위해 필요한 요소</title>
       <link>//localhost:1313/posts/blockchain/essential-element-of-electric-currency/</link>
       <pubDate>Thu, 04 Dec 2025 00:05:59 +0900</pubDate>
       <guid>//localhost:1313/posts/blockchain/essential-element-of-electric-currency/</guid>
       <description>&lt;p&gt;&lt;strong&gt;블록체인&lt;/strong&gt;에 대해서 얘기하려면 비트코인 얘기가 빠질 수 없죠.&lt;br&gt;&#xA;비트코인이 뭔가요? 바로 &lt;strong&gt;탈중앙화 디지털 화폐&lt;/strong&gt;라고 할 수 있습니다.&lt;br&gt;&#xA;그렇습니다. 우리는 비트코인을 이해하기 전에 먼저 &lt;strong&gt;디지털 화폐&lt;/strong&gt;에 대해 얘기를 해보려고 합니다.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>블록체인과 관련된 글을 작성해보자</title>
-      <link>//localhost:1313/posts/blockchain/backlog-blockchain/</link>
-      <pubDate>Wed, 03 Dec 2025 21:51:04 +0900</pubDate>
-      <guid>//localhost:1313/posts/blockchain/backlog-blockchain/</guid>
-      <description>&lt;p&gt;이제 더 이상 블로그 글 작성하는 것을 미루지 않으려고 합니다. 글 작성하는 걸 미루게 되는 가장 큰 원인은 너무 크게 생각해서 &amp;lsquo;언제 다 쓰지&amp;hellip;&amp;lsquo;하는 고민인 것 같습니다.&lt;/p&gt;</description>
     </item>
     <item>
       <title>첫 번째 포스트</title>

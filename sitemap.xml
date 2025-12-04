@@ -2,42 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/tags/bitcoin/</loc>
-    <lastmod>2025-12-04T12:38:30+09:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/categories/blockchain/</loc>
-    <lastmod>2025-12-04T12:38:30+09:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/categories/</loc>
-    <lastmod>2025-12-04T12:38:30+09:00</lastmod>
+    <lastmod>2025-12-04T19:38:49+09:00</lastmod>
   </url><url>
     <loc>//localhost:1313/docstypes/</loc>
-    <lastmod>2025-12-04T12:38:30+09:00</lastmod>
+    <lastmod>2025-12-04T19:38:49+09:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/docstypes/notes/</loc>
-    <lastmod>2025-12-04T12:38:30+09:00</lastmod>
+    <loc>//localhost:1313/tags/go/</loc>
+    <lastmod>2025-12-04T19:38:49+09:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/programming-language/go/go-build-and-runtime-overview/</loc>
+    <lastmod>2025-12-04T19:38:49+09:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/docstypes/note/</loc>
+    <lastmod>2025-12-04T19:38:49+09:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/</loc>
-    <lastmod>2025-12-04T12:38:30+09:00</lastmod>
+    <lastmod>2025-12-04T19:38:49+09:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/program-language/</loc>
+    <lastmod>2025-12-04T19:38:49+09:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/</loc>
-    <lastmod>2025-12-04T12:38:30+09:00</lastmod>
+    <lastmod>2025-12-04T19:38:49+09:00</lastmod>
   </url><url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2025-12-04T12:38:30+09:00</lastmod>
+    <lastmod>2025-12-04T19:38:49+09:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/what-is-blockchain/essential-element-of-electric-currency/</loc>
-    <lastmod>2025-12-04T12:38:30+09:00</lastmod>
+    <loc>//localhost:1313/posts/programming-language/go/getting-started/</loc>
+    <lastmod>2025-12-04T18:55:29+09:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/backlog/</loc>
-    <lastmod>2025-12-04T12:38:30+09:00</lastmod>
+    <loc>//localhost:1313/categories/programming-language/</loc>
+    <lastmod>2025-12-04T18:55:29+09:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/backlog-blockchain/</loc>
-    <lastmod>2025-12-04T12:38:30+09:00</lastmod>
+    <loc>//localhost:1313/docstypes/backlog/</loc>
+    <lastmod>2025-12-04T14:30:43+09:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/programming-language/go/backlog-go/</loc>
+    <lastmod>2025-12-04T14:30:43+09:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/bitcoin/</loc>
+    <lastmod>2025-12-04T15:01:45+09:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/blockchain/</loc>
+    <lastmod>2025-12-04T15:01:45+09:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/blockchain/essential-element-of-electric-currency/</loc>
+    <lastmod>2025-12-04T15:01:45+09:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/blockchain/backlog-blockchain/</loc>
+    <lastmod>2025-12-04T14:07:14+09:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/first-post/</loc>
-    <lastmod>2025-12-04T12:38:30+09:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/notes/</loc>
+    <lastmod>2025-12-04T14:07:14+09:00</lastmod>
   </url>
 </urlset>
