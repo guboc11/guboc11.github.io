@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docstypes on Tawon&#39;s Dev Blog</title>
+    <link>//localhost:1313/docstypes/</link>
+    <description>Recent content in Docstypes on Tawon&#39;s Dev Blog</description>
+    <generator>Hugo</generator>
+    <language>ko</language>
+    <lastBuildDate>Thu, 04 Dec 2025 12:38:30 +0900</lastBuildDate>
+    <atom:link href="//localhost:1313/docstypes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notes</title>
+      <link>//localhost:1313/docstypes/notes/</link>
+      <pubDate>Thu, 04 Dec 2025 00:05:59 +0900</pubDate>
+      <guid>//localhost:1313/docstypes/notes/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
